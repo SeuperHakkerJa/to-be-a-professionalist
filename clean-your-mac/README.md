@@ -1,5 +1,5 @@
 # Clean your mac
-update: March 9th, 2019 Author: Xiaochen Li
+update: March 9th, 2019 | Author: Xiaochen Li
 ********************************
 
 1. Make sure you have homebrew on your mac.
