@@ -1,3 +1,10 @@
+/* Provides an a way to see how floating points numbers 
+   are constructed using sign bit + exponent + mantissa */
+
+
+
+
+
 #include <stdio.h>
 
 int main( void ) {
